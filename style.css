@@ -56,3 +56,7 @@ html{
 #projects{
     padding: 30vh 15px;
 }
+#projects img:hover{
+    transition: ease-out 1s;
+    transform: scale(120%);
+}
